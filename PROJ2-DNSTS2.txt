@@ -1,0 +1,13 @@
+www.princeton.edu 128.1.1.4 A
+GOOGLE.com 46.1.3.7 A
+e.com wrong2189212
+www.e.com 12.1.2.7 A
+www.h.edu wrong
+h.edu 2.3.4..5432..4 A
+l.com 182.2..43.12 A
+www.p wrong
+www.p.happy wrong
+p.com wrong
+p wrong
+www.p.com 2.2.3.3.32. A
+www.p.edu wrong
